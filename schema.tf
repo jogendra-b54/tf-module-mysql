@@ -1,4 +1,4 @@
-# This is going to  inject the schema to DocDB
+# This is going to  inject the schema to MySQL
 
 resource "null_resource" "mysql_schema" {
 
